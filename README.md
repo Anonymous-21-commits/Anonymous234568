@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Soumalya Majumdar
+- 👋 Hi
 - 👀 I’m interested in BackEnd Devlopment
-- 🌱 I’m currently learning in National Institute of technology Durgapur
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me sm.20u10694@btech.nitdgp.ac.in
+- 🌱 I’m currently learning in 
+- 💞️ I’m looking to 
+- 📫 How to reach me 
 
 <!---
 Anonymous234568/Anonymous234568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
